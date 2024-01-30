@@ -15,6 +15,6 @@ public class SpringbootAwsEc2Application {
 	
 	@GetMapping("/")
 	public String getData() {
-		return "HELLO KIRUTHIKA SRINIVASAN FROM AMIZHTH TECHNOLOGY---> HELLO EVERYONE";
+		return "HELLO KIRUTHIKA SRINIVASAN FROM AMIZHTH TECHNOLOGY---> HELLO WORLD";
 	}
 }
