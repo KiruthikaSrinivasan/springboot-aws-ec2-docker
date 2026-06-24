@@ -15,6 +15,6 @@ public class SpringbootAwsEc2Application {
 	
 	@GetMapping("/")
 	public String getData() {
-		return "HELLO KIRUTHIKA S---> HEY";
+		return "HELLO KIRUTHIKA S---> H";
 	}
 }
